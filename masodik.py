@@ -14,3 +14,11 @@ hallgato ={"nev": "Jolán", "kor": 19}
 metszet = felhaszalonev[2]
 print(hallgato["nev"])
 print("Szia", felhaszalonev, '!', metszet)
+
+print('Jó', 'reggelt', 'DUE!', end='\n\n', sep='-')
+print('Több soros\n'
+'kiírás\n'
+' !!!! ')
+
+peint(f'Szia {felhasznalo_neve}! \n{jegyek}')
+print(f'Kora:
